@@ -22,6 +22,45 @@ time_periods = [
 #TimePeriod('nov 2012', 'EURUSD', '2012-11-01','2012-12-01','DAT_MT_EURUSD_M1_2012.csv'),
 #TimePeriod('dec 2012', 'EURUSD', '2012-12-01','2013-01-01','DAT_MT_EURUSD_M1_2012.csv'),
 
+#TimePeriod('jan 2013', 'EURUSD', '2013-01-01','2013-02-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('feb 2013', 'EURUSD', '2013-02-01','2013-03-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('mar 2013', 'EURUSD', '2013-03-01','2013-04-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('apr 2013', 'EURUSD', '2013-04-01','2013-05-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('may 2013', 'EURUSD', '2013-05-01','2013-06-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('jun 2013', 'EURUSD', '2013-06-01','2013-07-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('jun 2013', 'EURUSD', '2013-07-01','2013-08-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('aug 2013', 'EURUSD', '2013-08-01','2013-09-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('sep 2013', 'EURUSD', '2013-09-01','2013-10-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('oct 2013', 'EURUSD', '2013-10-01','2013-11-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('nov 2013', 'EURUSD', '2013-11-01','2013-12-01','DAT_MT_EURUSD_M1_2013.csv'),
+#TimePeriod('dec 2013', 'EURUSD', '2013-12-01','2014-01-01','DAT_MT_EURUSD_M1_2013.csv'),
+
+#TimePeriod('jan 2014', 'EURUSD', '2014-01-01','2014-02-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('feb 2014', 'EURUSD', '2014-02-01','2014-03-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('mar 2014', 'EURUSD', '2014-03-01','2014-04-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('apr 2014', 'EURUSD', '2014-04-01','2014-05-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('may 2014', 'EURUSD', '2014-05-01','2014-06-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('jun 2014', 'EURUSD', '2014-06-01','2014-07-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('jun 2014', 'EURUSD', '2014-07-01','2014-08-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('aug 2014', 'EURUSD', '2014-08-01','2014-09-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('sep 2014', 'EURUSD', '2014-09-01','2014-10-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('oct 2014', 'EURUSD', '2014-10-01','2014-11-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('nov 2014', 'EURUSD', '2014-11-01','2014-12-01','DAT_MT_EURUSD_M1_2014.csv'),
+#TimePeriod('dec 2014', 'EURUSD', '2014-12-01','2015-01-01','DAT_MT_EURUSD_M1_2014.csv'),
+
+#imePeriod('jan 2015', 'EURUSD', '2015-01-01','2015-02-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('feb 2015', 'EURUSD', '2015-02-01','2015-03-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('mar 2015', 'EURUSD', '2015-03-01','2015-04-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('apr 2015', 'EURUSD', '2015-04-01','2015-05-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('may 2015', 'EURUSD', '2015-05-01','2015-06-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('jun 2015', 'EURUSD', '2015-06-01','2015-07-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('jun 2015', 'EURUSD', '2015-07-01','2015-08-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('aug 2015', 'EURUSD', '2015-08-01','2015-09-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('sep 2015', 'EURUSD', '2015-09-01','2015-10-01','DAT_MT_EURUSD_M1_2015.csv'),
+#TimePeriod('oct 2015', 'EURUSD', '2015-10-01','2015-11-01','DAT_MT_EURUSD_M1_2015.csv'),
+TimePeriod('nov 2015', 'EURUSD', '2015-11-01','2015-12-01','DAT_MT_EURUSD_M1_2015.csv'),
+TimePeriod('dec 2015', 'EURUSD', '2015-12-01','2016-01-01','DAT_MT_EURUSD_M1_2015.csv'),
+
 #TimePeriod('jan 2016', 'EURUSD', '2016-01-01','2016-02-01','DAT_MT_EURUSD_M1_2016.csv'),
 #TimePeriod('feb 2016', 'EURUSD', '2016-02-01','2016-03-01','DAT_MT_EURUSD_M1_2016.csv'),
 #TimePeriod('mar 2016', 'EURUSD', '2016-03-01','2016-04-01','DAT_MT_EURUSD_M1_2016.csv'),
@@ -140,5 +179,5 @@ if (len(file_list_EURUSD) != 0):
 
     fout.close()
     #evaluate
-    accuracy_EURUSD = evaluate(output_file_EURUSD,"EURUSD",root)
+    accuracy_EURUSD, true_positive, true_negative, false_positive, false_negative = evaluate(output_file_EURUSD,"EURUSD",root)
     print("Accuracy of EURUSD: " + str(accuracy_EURUSD))
